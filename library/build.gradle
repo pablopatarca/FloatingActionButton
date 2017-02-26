@@ -28,4 +28,4 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.1.0'
 }
 
-apply from: '../gradle-mvn-push.gradle'
+//apply from: '../gradle-mvn-push.gradle'
